@@ -35,7 +35,7 @@ This project goes over using the command prompt: ping.  Ping test if your comput
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Command Prompt.</b></span>  
 <br/>
 
 <table>
