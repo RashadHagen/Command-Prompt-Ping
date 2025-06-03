@@ -34,12 +34,25 @@ This project goes over using the command prompt: ping.  Ping test if your comput
  <br/>
 
 
-</div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Command Prompt. 
-    <br/>
-    
-  <img src="https://imgur.com/EoQBMEe.png" height="60%" width="60%"/>  
-  <br /><br /><br /><br />
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/s76Gvol.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/GIi2h35.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/WU7Bvo5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/7KweOVp.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
 
 
   </div>
