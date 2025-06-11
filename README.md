@@ -56,7 +56,7 @@ This project goes over using the command prompt: ping.  Ping test if your comput
 
 
   </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: ping 8.8.8.8
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: ping 8.8.8.8     - Good way to check if the internet is working in the field.
     <br/>
     
   <img src="https://imgur.com/SWGZJ4P.png" height="60%" width="60%"/>  
